@@ -1,18 +1,33 @@
 ````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:111827&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=INICIALIZANDO%20SISTEMA...&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         BANNER PRINCIPAL                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,100:111827&text=SYSTEM%20ONLINE&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=INICIALIZANDO%20SISTEMA...&descAlignY=60&descSize=18&descColor=94A3B8" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+%5bSEU+NOME%5d+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Front--End+%F0%9F%92%BB;Apaixonada+por+UI%2FUX+Design+%F0%9F%8E%A8;Transformando+ideias+em+experi%C3%AAncias+digitais;Bem-vindo+ao+meu+universo+digital+%F0%9F%96%A5%EF%B8%8F" alt="Animação de digitação"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TYPING ANIMATION                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+%5BSEU+NOME%5D+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+semestre+%F0%9F%8E%93;Apaixonada+por+Front--End+%F0%9F%92%BB;Apaixonada+por+UI%2FUX+Design+%F0%9F%8E%A8;Criando+interfaces+modernas+e+experi%C3%AAncias+digitais;Bem-vindo+ao+meu+universo+digital+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=020617"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                             BADGES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00F5FF?style=for-the-badge&labelColor=020617"/>
+
 <img src="https://img.shields.io/badge/FOCO-FRONT--END-7C3AED?style=for-the-badge&labelColor=020617"/>
+
 <img src="https://img.shields.io/badge/UI%2FUX-DESIGN-EC4899?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LOCALIZAÇÃO-BRASIL-22C55E?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/STATUS-APRENDENDO-22C55E?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
@@ -24,14 +39,17 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                       NÚCLEO J.A.R.V.I.S                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║ SISTEMA       : ONLINE                                       ║
-║ USUÁRIA       : SOPHIA COSTA                                 ║
-║ FUNÇÃO        : ESTUDANTE DE TECNOLOGIA                      ║
-║ FORMAÇÃO      : CIÊNCIA DA COMPUTAÇÃO                        ║
-║ SEMESTRE      : 2º SEMESTRE                                  ║
-║ ESPECIALIDADE : FRONT-END • UI/UX                            ║
-║ AMBIENTE      : GITHUB                                       ║
-║ MISSÃO        : CRIAR EXPERIÊNCIAS DIGITAIS                  ║
+║                                                              ║
+║  SISTEMA        : ● ONLINE                                   ║
+║  USUÁRIA        : SOPHIA COSTA                               ║
+║  FUNÇÃO         : ESTUDANTE DE TECNOLOGIA                    ║
+║  FORMAÇÃO       : CIÊNCIA DA COMPUTAÇÃO                      ║
+║  SEMESTRE       : 2º SEMESTRE                                ║
+║  FOCO           : FRONT-END                                  ║
+║  ESPECIALIDADE  : UI/UX DESIGN                               ║
+║  AMBIENTE       : GITHUB                                     ║
+║  MISSÃO         : CRIAR EXPERIÊNCIAS DIGITAIS                ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ````
 
@@ -44,14 +62,12 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                         SOBRE MIM                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🎓 Cursando Ciência da Computação — 2º semestre             ║
-║  💻 Apaixonada por Front-End                                 ║
-║  🎨 Apaixonada por UI/UX Design                              ║
-║  🚀 Transformando ideias em experiências digitais            ║
-║  🧠 Sempre aprendendo e explorando novas tecnologias         ║
-║                                                              ║
+╠══════════════════════════════════════════════════════════════╣                                                          
+║ 🎓 Cursando Ciência da Computação — 2º semestre             ║
+║ 💻 Apaixonada por Front-End                                 ║
+║ 🎨 Apaixonada por UI/UX Design                              ║
+║ 🚀 Criando experiências digitais                            ║
+║ 🧠 Em constante aprendizado                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -59,13 +75,13 @@
 
 <br>
 
-Olá! Eu sou **[Sophia]** 👋
+Olá! Eu sou **[SEU NOME]** 👋
 
 Sou estudante de **Ciência da Computação**, atualmente no **2º semestre**, apaixonada por tecnologia, programação e criação de experiências digitais.
 
 Atualmente, meu maior interesse está em **Front-End** e **UI/UX Design**, áreas que unem programação, criatividade, design e experiência do usuário.
 
-Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e visualmente atraentes**, sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
+Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e visualmente atraentes**, buscando sempre aprender novas tecnologias e evoluir minhas habilidades.
 
 ### 💙 Meu foco atual
 
@@ -74,9 +90,9 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 
 [████████████████████████████] 100%
 
-▸ Front-End Development
+▸ Desenvolvimento Front-End
 ▸ UI/UX Design
-▸ Desenvolvimento de interfaces
+▸ Criação de interfaces
 ▸ Design responsivo
 ▸ Experiência do usuário
 ▸ HTML • CSS • JavaScript
@@ -84,15 +100,9 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 ▸ Aprendizado contínuo
 ```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode" />
-
-</div>
-
 ---
 
-# ⚡ `02` — Minha Tech Stack
+# ⚡ `02` — Tech Stack
 
 ### 💻 Linguagens
 
@@ -102,7 +112,7 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 
 </div>
 
-### 🎨 Design & Interface
+### 🎨 Front-End & UI/UX
 
 <div align="center">
 
@@ -110,7 +120,7 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 
 </div>
 
-### 🛠️ Ferramentas & Tecnologias
+### 🛠️ Ferramentas
 
 <div align="center">
 
@@ -128,20 +138,73 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 
 ---
 
-# 🛠️ `03` — Ferramentas que Utilizo
+# 🛠️ `03` — Ferramentas Utilizadas
 
 <div align="center">
 
-|        Área        | Tecnologias                               |
-| :----------------: | :---------------------------------------  |
-| 💻 Desenvolvimento | HTML • CSS • JavaScript • Java           |
-|      🎨 UI/UX      | Prototipagem • Design Responsivo         |
-|    🧩 Front-End    | HTML • CSS • JavaScript • Bootstrap      |
-| 🗄️ Banco de Dados  | SQL                                      |
-|      📱 Mobile     | Android Studio                           |
-|  🔧 Versionamento  | Git • GitHub                             |
-| 🧰 Desenvolvimento | VS Code                                  |
-|  🧠 Conhecimentos  | Lógica • Algoritmos • Estrutura de Dados |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento
+
+```text
+HTML
+CSS
+JavaScript
+Java
+Bootstrap
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Design
+
+```text
+Figma
+UI Design
+UX Design
+Prototipagem
+Design Responsivo
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Ferramentas
+
+```text
+Git
+GitHub
+VS Code
+Android Studio
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Tecnologias
+
+```text
+MongoDB
+APIs
+Desenvolvimento Web
+Aplicações Android
+```
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -154,35 +217,43 @@ Gosto de transformar ideias em interfaces **modernas, intuitivas, funcionais e v
 <table>
 <tr>
 
-<td width="70%" valign="top">
+<td width="75%" valign="top">
 
-<h3 align="center">📱 Calculadora TMB</h3>
+<h2 align="center">📱 Calculadora TMB</h2>
 
 <p align="center">
-Aplicativo Android desenvolvido em Java e XML para
-realizar o cálculo da Taxa Metabólica Basal,
-com uma interface simples, intuitiva e funcional.
+
+Aplicativo Android desenvolvido em Java e XML,
+criado para realizar o cálculo da Taxa Metabólica Basal.
+
+</p>
+
+<p align="center">
+
+O projeto possui uma interface simples, intuitiva
+e focada em uma boa experiência para o usuário.
+
 </p>
 
 <br>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white"/>
 
-</p>
+</div>
 
 <br>
 
-<p align="center">
-
 <a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=020617"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F5FF?style=for-the-badge&logo=github&logoColor=020617"/>
+
+</a>
 
 </td>
 
@@ -198,22 +269,24 @@ com uma interface simples, intuitiva e funcional.
 ```bash
 ┌──[ desenvolvedora@github ]──[ ~/objetivos ]
 │
-├── $ cat objetivos.txt
+├── $ ./inicializar_objetivos.sh
 │
-├── [01] Evoluir cada vez mais em Front-End
-├── [02] Aprimorar meus conhecimentos em UI/UX Design
-├── [03] Criar interfaces modernas e intuitivas
-├── [04] Aperfeiçoar HTML, CSS e JavaScript
-├── [05] Aprender novas tecnologias
-├── [06] Criar projetos para meu portfólio
-├── [07] Desenvolver projetos reais
-├── [08] Evoluir durante a graduação
-└── [09] Construir minha carreira na área de tecnologia
+├── [✓] Começar minha jornada em tecnologia
+├── [✓] Iniciar Ciência da Computação
+│
+├── [→] Evoluir em Front-End
+├── [→] Aprimorar UI/UX Design
+├── [→] Criar interfaces modernas
+├── [→] Aperfeiçoar HTML, CSS e JavaScript
+├── [→] Aprender novas tecnologias
+├── [→] Criar projetos para meu portfólio
+├── [→] Desenvolver projetos reais
+└── [→] Construir minha carreira em tecnologia
 ```
 
 <div align="center">
 
-### `STATUS DA MISSÃO`
+### `PROGRESSO DA MISSÃO`
 
 `████████████████████░░░░` **85%**
 
@@ -221,66 +294,20 @@ com uma interface simples, intuitiva e funcional.
 
 ---
 
-# 📊 `06` — Estatísticas do GitHub
+# 🌐 `06` — Redes Sociais
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=020617&title_color=00F5FF&icon_color=7C3AED&text_color=CBD5E1"/>
+<a href="https:www.linkedin.com/in/sophia-costa-9b41b842a">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8&bg_color=020617&title_color=00F5FF&text_color=CBD5E1"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=020617&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
-
-</div>
-
----
-
-# 📈 `07` — Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=020617&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 `08` — GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
-# 🐍 `09` — Minha Contribuição
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições"/>
-
-</div>
-
----
-
-# 🌐 `10` — Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sophia-costa-9b41b842a">
 <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+
 </a>
 
 <a href="mailto:sophiacostajayme@gmail.com">
+
 <img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+
 </a>
 
 </div>
@@ -288,6 +315,12 @@ com uma interface simples, intuitiva e funcional.
 ---
 
 <br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           RODAPÉ                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -296,12 +329,15 @@ com uma interface simples, intuitiva e funcional.
 ║                       MENSAGEM DO SISTEMA                   ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   "Cada linha de código é um passo em direção ao futuro."   ║
+║        "Criando hoje as experiências digitais               ║
+║                    do futuro."                              ║
 ║                                                              ║
-║   SISTEMA        : ● ONLINE                                 ║
-║   DESENVOLVEDORA : ● EVOLUINDO                              ║
-║   PROJETOS       : ● EM DESENVOLVIMENTO                     ║
-║   MISSÃO         : ● EM ANDAMENTO                           ║
+║  SISTEMA         : ● ONLINE                                 ║
+║  DESENVOLVEDORA  : ● EVOLUINDO                              ║
+║  FRONT-END       : ● ATIVO                                  ║
+║  UI/UX           : ● ATIVO                                  ║
+║  PROJETOS        : ● EM DESENVOLVIMENTO                     ║
+║  MISSÃO          : ● EM ANDAMENTO                           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -312,7 +348,7 @@ com uma interface simples, intuitiva e funcional.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111827,50:0f172a,100:020617&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:111827,50:0F172A,100:020617&section=footer" width="100%"/>
 
 </div>
 ```
