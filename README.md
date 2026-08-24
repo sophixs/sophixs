@@ -1,159 +1,151 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,100:111827&text=SYSTEM%20ONLINE&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=INICIALIZANDO%20SISTEMA...&descAlignY=60&descSize=18&descColor=94A3B8" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    SOPHIA COSTA • README                     -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0617,50:4B147C,100:8B3FD1&height=180&section=header&text=SOPHIA%20COSTA&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+Sophia+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+semestre+%F0%9F%8E%93;Apaixonada+por+Front--End+%F0%9F%92%BB;Apaixonada+por+UI%2FUX+Design+%F0%9F%8E%A8;Criando+interfaces+modernas+e+experi%C3%AAncias+digitais;Bem-vindo+ao+meu+universo+digital+%F0%9F%96%A5%EF%B8%8F" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00F5FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCO-FRONT--END-7C3AED?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/UI%2FUX-DESIGN-EC4899?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/STATUS-APRENDENDO-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+CODE+UNIVERSE+%E2%9C%A8;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+semestre+%F0%9F%8E%93;Apaixonada+por+Front-End+%F0%9F%92%BB;Apaixonada+por+UI%2FUX+Design+%F0%9F%8E%A8;Construindo+meu+universo+digital+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-# 🧠 `> INICIALIZANDO PERFIL...`
+## 🖥️ SOPHIA AI CORE
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                       NÚCLEO J.A.R.V.I.S                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  SISTEMA        : ● ONLINE                                   ║
-║  USUÁRIA        : SOPHIA                                     ║
-║  FUNÇÃO         : ESTUDANTE DE TECNOLOGIA                    ║
-║  FORMAÇÃO       : CIÊNCIA DA COMPUTAÇÃO                      ║
-║  SEMESTRE       : 2º SEMESTRE                                ║
-║  FOCO           : FRONT-END                                  ║
-║  ESPECIALIDADE  : UI/UX DESIGN                               ║
-║  AMBIENTE       : GITHUB                                     ║
-║  MISSÃO         : CRIAR EXPERIÊNCIAS DIGITAIS                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                    SOPHIA SYSTEM v2.0                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Initializing system...                         100%         │
+│  ████████████████████████████████████████████████████████   │
+│                                                              │
+│  ✓ Developer detected                                        │
+│  ✓ Creativity activated                                      │
+│  ✓ Code engine activated                                     │
+│  ✓ Design module loaded                                      │
+│  ✓ Projects loaded                                           │
+│                                                              │
+│  STATUS: ONLINE  ✓                                           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+````
 
-👩🏻‍💻 01 — Sobre Mim
+### 👩🏻‍💻 Sobre Mim
 
-Olá! Eu sou Sophia 👋
+Olá! Eu sou **Sophia Costa** 👋
 
-Sou estudante de Ciência da Computação, atualmente no 2º semestre, apaixonada por tecnologia, programação e criação de experiências digitais.
+🎓 Atualmente estou **cursando Ciência da Computação**, no **2º semestre**.
 
-Atualmente, meu maior interesse está em Front-End e UI/UX Design, áreas que unem programação, criatividade, design e experiência do usuário.
+💻 Sou apaixonada por **Front-End**, gosto de transformar ideias em interfaces modernas, funcionais e responsivas.
 
-Gosto de transformar ideias em interfaces modernas, intuitivas, funcionais e visualmente atraentes, buscando sempre aprender novas tecnologias e evoluir minhas habilidades.
+🎨 Também sou apaixonada por **UI/UX Design**, buscando unir programação, criatividade e experiência do usuário em cada projeto.
 
-💙 Meu foco atual
-> foco_atual.exe
+🚀 Estou construindo minha jornada na tecnologia, aprendendo constantemente e transformando conhecimento em projetos.
 
-[████████████████████████████] 100%
+---
 
-▸ Desenvolvimento Front-End
-▸ UI/UX Design
-▸ Criação de interfaces
-▸ Design responsivo
-▸ Experiência do usuário
-▸ HTML • CSS • JavaScript
-▸ Git & GitHub
-▸ Aprendizado contínuo
+## ⚡ Tech Stack
 
-02 — Tech Stack
-💻 Linguagens
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java" /> </div>
-🎨 Front-End & UI/UX
-<div align="center"> <img src="https://skillicons.dev/icons?i=figma,bootstrap" /> </div>
-🛠️ Ferramentas
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,androidstudio" /> </div>
-🚀 Tecnologias que quero explorar
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,python,docker" /> </div>
-
-03 — Ferramentas Utilizadas
-<div align="center"> <table> <tr> <td width="50%" valign="top">
-💻 Desenvolvimento
-
-HTML
-CSS
-JavaScript
-Java
-Bootstrap
-
-</td> <td width="50%" valign="top">
-🎨 Design
-
-Figma
-UI Design
-UX Design
-Prototipagem
-Design Responsivo
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🔧 Ferramentas
-
-Git
-GitHub
-VS Code
-Android Studio
-
-</td> <td width="50%" valign="top">
-🗄️ Tecnologias
-
-MongoDB
-APIs
-Desenvolvimento Web
-Aplicações Android
-
-</td> </tr> </table> </div>
-🚀 04 — Projeto em Destaque
-<div align="center"> <table> <tr> <td width="75%" valign="top"> <h2 align="center">📱 Calculadora TMB</h2> <p align="center">
-
-Aplicativo Android desenvolvido em <strong>Java</strong>,
-criado para realizar o cálculo da Taxa Metabólica Basal.
-
-</p> <p align="center">
-
-O projeto possui uma interface simples, intuitiva
-e focada em uma boa experiência para o usuário.
-
-</p> <br> <div align="center"> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX-EC4899?style=for-the-badge&logo=figma&logoColor=white"/> </div> <br> <a href="https://github.com/sophixs"> <img src="https://img.shields.io/badge/VER%20MEU%20GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=020617"/> </a> </td> </tr> </table> </div>
-🎯 05 — Objetivos Atuais
-┌──[ sophixs@github ]──[ ~/objetivos ]
-│
-├── $ ./inicializar_objetivos.sh
-│
-├── [✓] Começar minha jornada em tecnologia
-├── [✓] Iniciar Ciência da Computação
-│
-├── [→] Evoluir em Front-End
-├── [→] Aprimorar UI/UX Design
-├── [→] Criar interfaces modernas
-├── [→] Aperfeiçoar HTML, CSS e JavaScript
-├── [→] Aprender novas tecnologias
-├── [→] Criar projetos para meu portfólio
-├── [→] Desenvolver projetos reais
-├── [→] Contribuir com projetos Open Source
-└── [→] Construir minha carreira em tecnologia
 <div align="center">
-PROGRESSO DA MISSÃO
 
-████████████████████░░░░ 85%
+<img src="https://skillicons.dev/icons?i=html,css,js,java,figma,bootstrap,git,github,vscode,androidstudio,mongodb&theme=dark&perline=11"/>
 
 </div>
 
-╔══════════════════════════════════════════════════════════════╗
-║                       MENSAGEM DO SISTEMA                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║        "Criando hoje as experiências digitais               ║
-║                    do futuro."                              ║
-║                                                              ║
-║  SISTEMA         : ● ONLINE                                 ║
-║  DESENVOLVEDORA  : ● EVOLUINDO                              ║
-║  FRONT-END       : ● ATIVO                                  ║
-║  UI/UX           : ● ATIVO                                  ║
-║  PROJETOS        : ● EM DESENVOLVIMENTO                     ║
-║  MISSÃO          : ● EM ANDAMENTO                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+|       📱 Projeto       | 💡 Descrição                                                                                                                                                |
+| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🧮 Calculadora TMB** | Aplicativo Android desenvolvido em **Java** para realizar o cálculo da **Taxa Metabólica Basal**, com foco em uma interface simples, intuitiva e funcional. |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/sophixs">
+
+<img src="https://img.shields.io/badge/VER%20PROJETO-8B3FD1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 🎯 Current Mission
+
+```text
+> loading objectives...
+
+████████████████████████░░░░░░  80%
+
+[✓] Iniciar minha jornada em tecnologia
+[✓] Começar Ciência da Computação
+[✓] Explorar desenvolvimento Front-End
+
+[→] Aprimorar minhas habilidades em Front-End
+[→] Evoluir em UI/UX Design
+[→] Criar interfaces modernas e responsivas
+[→] Desenvolver projetos para meu portfólio
+[→] Aprender novas tecnologias
+[→] Criar projetos reais
+[→] Construir minha carreira em tecnologia
+
+
+
+---
+
+<div align="center">
+
+## ✨ Let's Build Something Amazing
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│       CODE  •  DESIGN  •  CREATIVITY               │
+│                                                    │
+│       Transformando ideias em interfaces.          │
+│       Transformando código em experiências.        │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+<a href="https://github.com/sophixs">
+
+<img src="https://img.shields.io/badge/GITHUB-@SOPHIXS-8B3FD1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3FD1,50:4B147C,100:0D0617&height=100&section=footer" width="100%"/>
+
+</div>
+```
+
