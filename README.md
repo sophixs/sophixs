@@ -1,40 +1,44 @@
-````markdown
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    SOPHIA COSTA • README                     -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0617,50:4B147C,100:8B3FD1&height=180&section=header&text=SOPHIA%20COSTA&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0617,50:4B147C,100:8B3FD1&height=190&section=header&text=SOPHIA%20COSTA&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+CODE+UNIVERSE+%E2%9C%A8;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;2%C2%BA+semestre+%F0%9F%8E%93;Apaixonada+por+Front-End+%F0%9F%92%BB;Apaixonada+por+UI%2FUX+Design+%F0%9F%8E%A8;Construindo+meu+universo+digital+%F0%9F%9A%80"/>
+<a href="https://github.com/sophixs">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&height=55&lines=WELCOME+TO+MY+CODE+UNIVERSE;ESTUDANTE+DE+CI%C3%8ANCIA+DA+COMPUTA%C3%87%C3%83O;2%C2%BA+SEMESTRE;APAIXONADA+POR+FRONT-END;APAIXONADA+POR+UI%2FUX+DESIGN;BUILDING+MY+DIGITAL+UNIVERSE" alt="Typing Animation"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SOPHIA%20COSTA-8B3FD1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FRONT--END-6A1B9A?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-9C27B0?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🖥️ SOPHIA AI CORE
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SOPHIA SYSTEM v2.0                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Initializing system...                         100%         │
-│  ████████████████████████████████████████████████████████   │
-│                                                              │
-│  ✓ Developer detected                                        │
-│  ✓ Creativity activated                                      │
-│  ✓ Code engine activated                                     │
-│  ✓ Design module loaded                                      │
-│  ✓ Projects loaded                                           │
-│                                                              │
-│  STATUS: ONLINE  ✓                                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-````
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                     SOPHIA SYSTEM v2.0                           ║
+║                                                                  ║
+║  Initializing system...                              100%        ║
+║  ████████████████████████████████████████████████████████       ║
+║                                                                  ║
+║  ✓ Developer detected                                            ║
+║  ✓ Creativity activated                                          ║
+║  ✓ Code engine activated                                         ║
+║  ✓ Design module loaded                                          ║
+║  ✓ Projects loaded                                               ║
+║                                                                  ║
+║  STATUS: ONLINE ✓                                                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
 ### 👩🏻‍💻 Sobre Mim
 
