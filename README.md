@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0617,50:4B147C,100:8B3FD1&height=190&section=header&text=SOPHIA%20COSTA&fontSize=52&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
@@ -39,18 +41,39 @@
 ║  STATUS: ONLINE ✓                                                ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+````
 
-### 👩🏻‍💻 Sobre Mim
+</div>
+
+---
+
+## 👩🏻‍💻 Sobre Mim
 
 Olá! Eu sou **Sophia Costa** 👋
 
 🎓 Atualmente estou **cursando Ciência da Computação**, no **2º semestre**.
 
-💻 Sou apaixonada por **Front-End**, gosto de transformar ideias em interfaces modernas, funcionais e responsivas.
+💻 Sou apaixonada por **Front-End**, especialmente pela criação de interfaces modernas, responsivas e funcionais.
 
-🎨 Também sou apaixonada por **UI/UX Design**, buscando unir programação, criatividade e experiência do usuário em cada projeto.
+🎨 Também sou apaixonada por **UI/UX Design**, buscando unir programação, criatividade e experiência do usuário.
 
-🚀 Estou construindo minha jornada na tecnologia, aprendendo constantemente e transformando conhecimento em projetos.
+🚀 Estou construindo minha jornada na tecnologia através de estudos, projetos e aprendizado contínuo.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    PERFIL DA USUÁRIA                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🎓 Ciência da Computação                                   │
+│  📚 2º semestre                                              │
+│  💻 Front-End                                                │
+│  🎨 UI/UX Design                                             │
+│  🚀 Desenvolvimento Web                                     │
+│  🧠 Aprendizado contínuo                                    │
+│  ✨ Criatividade + Tecnologia                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -78,25 +101,51 @@ Olá! Eu sou **Sophia Costa** 👋
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Ferramentas Utilizadas
 
 <div align="center">
 
-|       📱 Projeto       | 💡 Descrição                                                                                                                                                |
-| :--------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🧮 Calculadora TMB** | Aplicativo Android desenvolvido em **Java** para realizar o cálculo da **Taxa Metabólica Basal**, com foco em uma interface simples, intuitiva e funcional. |
+| 💻 Desenvolvimento |     🎨 Design     | 🔧 Ferramentas |
+| :----------------: | :---------------: | :------------: |
+|        HTML5       |       Figma       |       Git      |
+|        CSS3        |     UI Design     |     GitHub     |
+|     JavaScript     |     UX Design     |     VS Code    |
+|        Java        |    Prototipagem   | Android Studio |
+|      Bootstrap     | Design Responsivo |     MongoDB    |
 
 </div>
 
-<br>
+---
+
+## 🚀 Projeto em Destaque
 
 <div align="center">
 
+<table>
+<tr>
+<td width="100%">
+
+### 📱 Calculadora TMB
+
+**Aplicativo Android desenvolvido em Java**
+
+Projeto desenvolvido para realizar o cálculo da **Taxa Metabólica Basal (TMB)**, com uma interface simples, intuitiva e funcional.
+
+<br>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-9C27B0?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<br><br>
+
 <a href="https://github.com/sophixs">
-
 <img src="https://img.shields.io/badge/VER%20PROJETO-8B3FD1?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -113,43 +162,112 @@ Olá! Eu sou **Sophia Costa** 👋
 [✓] Começar Ciência da Computação
 [✓] Explorar desenvolvimento Front-End
 
-[→] Aprimorar minhas habilidades em Front-End
-[→] Evoluir em UI/UX Design
-[→] Criar interfaces modernas e responsivas
-[→] Desenvolver projetos para meu portfólio
+[→] Evoluir em Front-End
+[→] Aprimorar UI/UX Design
+[→] Criar interfaces modernas
+[→] Aperfeiçoar HTML, CSS e JavaScript
 [→] Aprender novas tecnologias
-[→] Criar projetos reais
+[→] Criar projetos para meu portfólio
+[→] Desenvolver projetos reais
 [→] Construir minha carreira em tecnologia
 
+STATUS:
+● WORKING ON BECOMING BETTER EVERY DAY
+```
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophixs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0617&title_color=C77DFF&icon_color=9C27B0&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophixs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0617&title_color=C77DFF&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sophixs&theme=tokyonight&hide_border=true&background=0D0617&ring=C77DFF&fire=9C27B0&currStreakLabel=C77DFF"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sophixs&bg_color=0D0617&color=C77DFF&line=8B3FD1&point=FFFFFF&area=true&hide_border=true&custom_title=MINHA%20ATIVIDADE%20NO%20GITHUB" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sophixs&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://github.com/sophixs">
+<img src="https://img.shields.io/badge/GitHub-sophixs-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ✨ Let's Build Something Amazing
-
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│       CODE  •  DESIGN  •  CREATIVITY               │
-│                                                    │
-│       Transformando ideias em interfaces.          │
-│       Transformando código em experiências.        │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                         SOPHIA COSTA                             ║
+║                                                                  ║
+║               CODE • DESIGN • CREATIVITY                         ║
+║                                                                  ║
+║       Transformando ideias em interfaces.                        ║
+║       Transformando código em experiências.                      ║
+║                                                                  ║
+║                         ● ONLINE                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<br>
 
 <a href="https://github.com/sophixs">
 
-<img src="https://img.shields.io/badge/GITHUB-@SOPHIXS-8B3FD1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/@SOPHIXS-8B3FD1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3FD1,50:4B147C,100:0D0617&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B3FD1,50:4B147C,100:0D0617&height=120&section=footer"/>
+
+<br>
+
+<sub>⚡ Desenvolvendo • Aprendendo • Criando • Evoluindo ⚡</sub>
 
 </div>
+```
+
 ```
 
